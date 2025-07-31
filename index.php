@@ -780,39 +780,28 @@
         </div>
     </section>
    
-    <!-- NID Study Material (BDES) - Study Material Kit  -->
+    <!-- CEED M.Des Study Material Kit  -->
     <section class="nid-study-kit-section">
     <div class="nid-study-kit">
         <div class="nid-kit-header">
-            <h1 class="nid-kit-title">NID Study Material (BDES)</h1>
-            <p class="nid-kit-subtitle">Study Material Kit</p>
+            <h1 class="nid-kit-title">CEED M.Des Study Material Kit</h1>
         </div>
 
         <div class="nid-selections-grid">
             <div class="nid-achievement-card">
-                <div class="nid-selection-count">2162</div>
-                <div class="nid-achievement-label">NID Selections since 2005</div>
+                <div class="nid-selection-count">675</div>
+                <div class="nid-achievement-label">BRDS Students in IIT's</div>
             </div>
 
             <div class="nid-achievement-card">
-                <div class="nid-selection-count">262</div>
-                <div class="nid-achievement-label">Selections in NID 2024<br>(219 B.Des + 43 M.Des)</div>
-            </div>
-
-            <div class="nid-achievement-card">
-                <div class="nid-selection-count">1-10</div>
-                <div class="nid-achievement-label">All India Rank 1 to 10<br>in NID from BRDS</div>
-            </div>
-
-            <div class="nid-achievement-card">
-                <div class="nid-selection-count">230</div>
-                <div class="nid-achievement-label">Students in Top 100</div>
+                <div class="nid-selection-count">382</div>
+                <div class="nid-achievement-label">BRDS Students Qualified CEED in 2021</div>
             </div>
         </div>
 
         <div class="nid-expert-section">
             <p class="nid-expert-message">
-                Get comprehensive study materials designed by experts who have consistently produced top rankers in NID entrance examinations.
+                Get comprehensive study materials designed by experts who have consistently produced top rankers in CEED entrance examinations.
             </p>
             <a href="#form">
                 <button class="nid-kit-access-btn">Get Study Material Kit</button>
@@ -820,14 +809,14 @@
         </div>
     </div>
     </section>
-    <!-- End NID Study Material (BDES) - Study Material Kit  -->
+    <!-- End CEED M.Des Study Material Kit  -->
 
 
     <section class="body_exam">
         <div class="container_exam">
           <!-- Section Header -->
           <div class="section-header_exam fade-in_exam">
-            <h2 class="section-title_exam course_exam">Reasons to choose BRDS NID Study Material</h2>
+            <h2 class="section-title_exam course_exam">Reasons to Choose BRDS CEED Study Material</h2>
           </div>
       
           <!-- Swiper Slider -->
@@ -838,7 +827,7 @@
               <div class="swiper-slide">
                 <div class="course-card_exam fade-in-up_exam">
                   <div class="course-header_exam shimmer_exam">
-                    <h3 class="course-title_exam">13 books for DAT & GAT preparation</h3>
+                    <h3 class="course-title_exam">Books - 13 books for Online and Drawing test preparation</h3>
                   </div>
                   <div class="course-content_exam">
                     <img src="https://rathoredesign.com/wp-content/uploads/2022/08/nid-study.jpeg" alt="Study Books" style="width: 400px; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
@@ -846,11 +835,11 @@
                 </div>
               </div>
       
-              <!-- Card 2: Digital Resource Link -->
+              <!-- Card 2: Books Repeat -->
               <div class="swiper-slide">
                 <div class="course-card_exam fade-in-up_exam">
                   <div class="course-header_exam shimmer_exam">
-                    <h3 class="course-title_exam">Resource link with useful eBooks and visuals</h3>
+                    <h3 class="course-title_exam">Books - 13 books for Online and Drawing test preparation</h3>
                   </div>
                   <div class="course-content_exam">
                     <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Digital Resources" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
@@ -858,11 +847,11 @@
                 </div>
               </div>
       
-              <!-- Card 3: Expert Guidance -->
+              <!-- Card 3: Books Another -->
               <div class="swiper-slide">
                 <div class="course-card_exam fade-in-up_exam">
                   <div class="course-header_exam shimmer_exam">
-                    <h3 class="course-title_exam">Expert's support and guidance</h3>
+                    <h3 class="course-title_exam">Books - 13 books for Online and Drawing test preparation</h3>
                   </div>
                   <div class="course-content_exam">
                     <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Expert Support" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
@@ -870,38 +859,14 @@
                 </div>
               </div>
       
-              <!-- Card 4: Doubt Solving -->
+              <!-- Card 4: Books Final -->
               <div class="swiper-slide">
                 <div class="course-card_exam fade-in-up_exam">
                   <div class="course-header_exam shimmer_exam">
-                    <h3 class="course-title_exam">Doubt Solving workshops</h3>
+                    <h3 class="course-title_exam">Books - 13 books for Online and Drawing test preparation</h3>
                   </div>
                   <div class="course-content_exam">
                     <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Doubt Solving Workshops" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
-                  </div>
-                </div>
-              </div>
-      
-              <!-- Card 5: DAT Mains Kit -->
-              <div class="swiper-slide">
-                <div class="course-card_exam fade-in-up_exam">
-                  <div class="course-header_exam shimmer_exam">
-                    <h3 class="course-title_exam">Free DAT Mains coaching kit</h3>
-                  </div>
-                  <div class="course-content_exam">
-                    <img src="https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="DAT Mains Kit" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
-                  </div>
-                </div>
-              </div>
-      
-              <!-- Card 6: Other Design Colleges -->
-              <div class="swiper-slide">
-                <div class="course-card_exam fade-in-up_exam">
-                  <div class="course-header_exam shimmer_exam">
-                    <h3 class="course-title_exam">Prepare for Other Design Colleges</h3>
-                  </div>
-                  <div class="course-content_exam">
-                    <img src="https://images.unsplash.com/photo-1562774053-701939374585?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Design Colleges" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
                   </div>
                 </div>
               </div>
@@ -1254,7 +1219,7 @@
     <div class="nid_books_container">
         <!-- Section Header -->
         <div class="nid_books_header">
-            <h2 class="nid_books_title">Details of Books for comprehensive preparation of NID DAT Mains</h2>
+            <h2 class="nid_books_title">Details of Books for Comprehensive Preparation of CEED</h2>
         </div>
 
         <!-- Books Grid -->
@@ -1270,7 +1235,7 @@
                     <div class="nid_book_number">Book 1</div>
                 </div>
                 
-                <h3 class="nid_book_title">NID 14 years Original papers</h3>
+                <h3 class="nid_book_title">CEED Original papers</h3>
             </div>
 
             <div class="nid_book_item">
@@ -1284,7 +1249,7 @@
                     <div class="nid_book_number">Book 2</div>
                 </div>
                 
-                <h3 class="nid_book_title">NID 13 years Solved papers</h3>
+                <h3 class="nid_book_title">CEED – Mock Test Papers (Guess Papers)</h3>
             </div>
 
             <div class="nid_book_item">
@@ -1298,7 +1263,7 @@
                     <div class="nid_book_number">Book 3</div>
                 </div>
                 
-                <h3 class="nid_book_title">NID Mock test papers with solutions</h3>
+                <h3 class="nid_book_title">Visualization and Spatial Ability</h3>
             </div>
 
             <div class="nid_book_item">
@@ -1312,7 +1277,7 @@
                     <div class="nid_book_number">Book 4</div>
                 </div>
                 
-                <h3 class="nid_book_title">Fundamentals of Drawing and Color concept</h3>
+                <h3 class="nid_book_title">Observation & Design sensitivity / Design thinking and problem solving</h3>
             </div>
 
             <div class="nid_book_item">
@@ -1326,7 +1291,7 @@
                     <div class="nid_book_number">Book 5</div>
                 </div>
                 
-                <h3 class="nid_book_title">Perspective Drawing</h3>
+                <h3 class="nid_book_title">Analytical and logical reasoning</h3>
             </div>
 
             <div class="nid_book_item">
@@ -1340,7 +1305,7 @@
                     <div class="nid_book_number">Book 6</div>
                 </div>
                 
-                <h3 class="nid_book_title">How to draw humans and animals</h3>
+                <h3 class="nid_book_title">Non-verbal reasoning</h3>
             </div>
 
             <div class="nid_book_item">
@@ -1354,7 +1319,7 @@
                     <div class="nid_book_number">Book 7</div>
                 </div>
                 
-                <h3 class="nid_book_title">Design concept (Creative ability)</h3>
+                <h3 class="nid_book_title">Quantitative Aptitude</h3>
             </div>
 
             <div class="nid_book_item">
@@ -1368,7 +1333,7 @@
                     <div class="nid_book_number">Book 8</div>
                 </div>
                 
-                <h3 class="nid_book_title">Analytical and logical reasoning</h3>
+                <h3 class="nid_book_title">Communication Ability & English Comprehension</h3>
             </div>
 
             <div class="nid_book_item">
@@ -1382,7 +1347,7 @@
                     <div class="nid_book_number">Book 9</div>
                 </div>
                 
-                <h3 class="nid_book_title">Non-verbal reasoning</h3>
+                <h3 class="nid_book_title">General Knowledge and current affairs</h3>
             </div>
 
             <div class="nid_book_item">
@@ -1396,7 +1361,7 @@
                     <div class="nid_book_number">Book 10</div>
                 </div>
                 
-                <h3 class="nid_book_title">Quantitative Aptitude</h3>
+                <h3 class="nid_book_title">Fundamentals of Drawing and Color concept</h3>
             </div>
 
             <div class="nid_book_item">
@@ -1410,7 +1375,7 @@
                     <div class="nid_book_number">Book 11</div>
                 </div>
                 
-                <h3 class="nid_book_title">Communication Ability & English Comprehension</h3>
+                <h3 class="nid_book_title">Perspective Drawing</h3>
             </div>
 
             <div class="nid_book_item">
@@ -1424,7 +1389,7 @@
                     <div class="nid_book_number">Book 12</div>
                 </div>
                 
-                <h3 class="nid_book_title">General Knowledge and current affairs</h3>
+                <h3 class="nid_book_title">How to draw humans and animals</h3>
             </div>
 
             <div class="nid_book_item">
@@ -1438,7 +1403,7 @@
                     <div class="nid_book_number">Book 13</div>
                 </div>
                 
-                <h3 class="nid_book_title">Past papers of other design colleges</h3>
+                <h3 class="nid_book_title">Design concept (Creative ability)</h3>
             </div>
         </div>
     </div>
