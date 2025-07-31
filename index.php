@@ -830,16 +830,16 @@
                     <h3 class="course-title_exam">Books - 13 books for Online and Drawing test preparation</h3>
                   </div>
                   <div class="course-content_exam">
-                    <img src="https://rathoredesign.com/wp-content/uploads/2022/08/nid-study.jpeg" alt="Study Books" style="width: 400px; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
+                    <img src="https://rathoredesign.com/wp-content/uploads/2022/08/nid-study.jpeg" alt="Study Books" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
                   </div>
                 </div>
               </div>
       
-              <!-- Card 2: Books Repeat -->
+              <!-- Card 2: Resource link -->
               <div class="swiper-slide">
                 <div class="course-card_exam fade-in-up_exam">
                   <div class="course-header_exam shimmer_exam">
-                    <h3 class="course-title_exam">Books - 13 books for Online and Drawing test preparation</h3>
+                    <h3 class="course-title_exam">Resource link with visual design and design trends.</h3>
                   </div>
                   <div class="course-content_exam">
                     <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Digital Resources" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
@@ -847,11 +847,11 @@
                 </div>
               </div>
       
-              <!-- Card 3: Books Another -->
+              <!-- Card 3: Expert's support -->
               <div class="swiper-slide">
                 <div class="course-card_exam fade-in-up_exam">
                   <div class="course-header_exam shimmer_exam">
-                    <h3 class="course-title_exam">Books - 13 books for Online and Drawing test preparation</h3>
+                    <h3 class="course-title_exam">Expert's support and guidance.</h3>
                   </div>
                   <div class="course-content_exam">
                     <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Expert Support" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
@@ -859,11 +859,11 @@
                 </div>
               </div>
       
-              <!-- Card 4: Books Final -->
+              <!-- Card 4: Doubt Solving -->
               <div class="swiper-slide">
                 <div class="course-card_exam fade-in-up_exam">
                   <div class="course-header_exam shimmer_exam">
-                    <h3 class="course-title_exam">Books - 13 books for Online and Drawing test preparation</h3>
+                    <h3 class="course-title_exam">Doubt Solving workshops</h3>
                   </div>
                   <div class="course-content_exam">
                     <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Doubt Solving Workshops" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
