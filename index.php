@@ -702,9 +702,7 @@
                 <div class="col-md-6 col-12" id="form">
                     <div class="banner-right text-center mx-auto ms-lg-auto me-lg-0 mw-">
                         <h3>Admissions Open</h3>
-                        <form method="post"
-                        action="brds_crm_api_ceed.php"
-                        enctype="multipart/form-data" id="brds_form">
+                        <form method="post" action="brds_crm_api_nift.php" enctype="multipart/form-data" id="brds_form">
                             <div class="col-12">
                                 <input type="text" name="Name" class="form-control shadow-none border-0" id="name"
                                     placeholder="Enter Name" required pattern="[A-Za-z\s]+"
