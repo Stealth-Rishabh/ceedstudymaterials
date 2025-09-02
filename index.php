@@ -7,11 +7,13 @@
     <title>Top NID Coaching | Expert Prep for B.Des & M.Des Success</title>
     <meta name="google-site-verification" content="AB0a1cA4zkM4DXlhdMUKGc3V0GirLuXigfIYhtjd9Pk" />
     <meta name="title" content="NID Coaching and NID Entrance Exam Preparation Tips - NID Situation Test">
-    <meta name="description" content="Get top-tier NID coaching, comprehensive NID study material, and expert NID preparation tips for your ultimate success, including NID situation test and NID result guidance.">
+    <meta name="description"
+        content="Get top-tier NID coaching, comprehensive NID study material, and expert NID preparation tips for your ultimate success, including NID situation test and NID result guidance.">
     <link rel="icon" href="images/brds.png" type="image/svg+xml">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800;900&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" />
     <link rel="stylesheet" href="css/minified.css?v=3.1">
     <link rel="stylesheet" href="css/custom.css?v=<?php echo time(); ?>">
@@ -46,19 +48,22 @@
         gtag('js', new Date());
         gtag('config', 'G-QF56WX8800');
     </script>
-    <!-- Google Tag Manager --> 
+    <!-- Google Tag Manager -->
 
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': 
+    <script>(function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
 
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], 
-    
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 
-    
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); 
-    
-    })(window,document,'script','dataLayer','GTM-TWL9D6CF');</script> 
-    
-    <!-- End Google Tag Manager --> 
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+
+                    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+
+        })(window, document, 'script', 'dataLayer', 'GTM-TWL9D6CF');</script>
+
+    <!-- End Google Tag Manager -->
     <style>
         /* Improved styles for better readability and spacing */
         body {
@@ -143,14 +148,14 @@
 
         /* NID Study Material (BDES) - Study Material Kit */
         .nid-study-kit-section {
-            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            background: linear-gradient(135deg, #0f0f17 0%, #0f0f17 50%, #0f0f17 100%);
             width: 100vw;
             padding: 2rem 0;
         }
 
         .nid-study-kit {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            background: linear-gradient(135deg, #0f0f17 0%, #0f0f17 50%, #0f0f17 100%);
             min-height: max-content;
             padding: 20px;
             display: flex;
@@ -185,7 +190,7 @@
         .nid-kit-title {
             font-size: 2.5rem;
             font-weight: 700;
-            color: #ffffff;
+            color: #ffeb3b !important;
             margin-bottom: 8px;
             position: relative;
             display: inline-block;
@@ -198,7 +203,7 @@
             left: 0;
             width: 100%;
             height: 4px;
-            background: linear-gradient(90deg, #f39c12, #e67e22);
+            background: linear-gradient(90deg, #ffeb3b, #b9ab2a);
             border-radius: 2px;
         }
 
@@ -236,7 +241,7 @@
             left: 0;
             right: 0;
             height: 3px;
-            background: linear-gradient(90deg, #f39c12, #e67e22);
+            background: linear-gradient(90deg, #ffeb3b, #b9ab2a);
         }
 
         .nid-achievement-card:hover {
@@ -248,7 +253,7 @@
         .nid-selection-count {
             font-size: 2.8rem !important;
             font-weight: 800 !important;
-            color: #f39c12;
+            color: #ffeb3b !important;
             margin-bottom: 12px;
             line-height: 1;
         }
@@ -277,7 +282,7 @@
         }
 
         .nid-kit-access-btn {
-            background: linear-gradient(135deg, #f39c12 0%, #e67e22 100%);
+            background: linear-gradient(135deg, #e31e24 0%, #e31e24 100%);
             color: #ffffff;
             border: none;
             padding: 16px 48px;
@@ -292,7 +297,7 @@
         .nid-kit-access-btn:hover {
             transform: translateY(-2px);
             box-shadow: 0 12px 32px rgba(243, 156, 18, 0.4);
-            background: linear-gradient(135deg, #e67e22 0%, #d35400 100%);
+            background: linear-gradient(135deg, #e31e24 0%, #e31e24 100%);
         }
 
         /* Mobile Responsive */
@@ -357,9 +362,10 @@
 
             .nid-achievement-card {
                 padding: 20px 16px;
-                
+
             }
-            .nid-selections-grid{
+
+            .nid-selections-grid {
                 width: 70%;
             }
         }
@@ -373,6 +379,7 @@
             background-color: #fff;
             padding: 60px 20px;
             min-height: 100vh;
+
         }
 
         .nid_books_container {
@@ -476,7 +483,8 @@
         }
 
         .nid_book_number {
-            font-size: 1.1rem; /* Increased for desktop */
+            font-size: 1.1rem;
+            /* Increased for desktop */
             opacity: 0.8;
             font-weight: 500;
             margin-bottom: 8px;
@@ -521,19 +529,22 @@
             }
 
             .nid_book_icon {
-                font-size: 2.2rem; /* Slightly larger for mobile */
+                font-size: 2.2rem;
+                /* Slightly larger for mobile */
                 margin-bottom: 0;
                 display: inline-block;
             }
 
             .nid_book_number {
-                font-size: 1.3rem; /* Increased for mobile */
+                font-size: 1.3rem;
+                /* Increased for mobile */
                 margin-bottom: 0;
                 font-weight: 600;
             }
 
             .nid_book_title {
-                font-size: 1.4rem; /* Increased for mobile */
+                font-size: 1.4rem;
+                /* Increased for mobile */
                 font-weight: 600;
             }
         }
@@ -566,13 +577,15 @@
             }
 
             .nid_book_number {
-                font-size: 1.2rem; /* Increased for mobile */
+                font-size: 1.2rem;
+                /* Increased for mobile */
                 margin-bottom: 0;
                 font-weight: 600;
             }
 
             .nid_book_title {
-                font-size: 1.3rem; /* Increased for mobile */
+                font-size: 1.3rem;
+                /* Increased for mobile */
                 font-weight: 600;
             }
         }
@@ -582,7 +595,7 @@
             .nid_book_item .nid_book_icon:not(.nid_book_header_mobile .nid_book_icon) {
                 display: none;
             }
-            
+
             .nid_book_item .nid_book_number:not(.nid_book_header_mobile .nid_book_number) {
                 display: none;
             }
@@ -594,6 +607,7 @@
                 opacity: 0;
                 transform: translateY(-20px);
             }
+
             to {
                 opacity: 1;
                 transform: translateY(0);
@@ -605,6 +619,7 @@
                 opacity: 0;
                 transform: translateY(30px);
             }
+
             to {
                 opacity: 1;
                 transform: translateY(0);
@@ -612,19 +627,57 @@
         }
 
         /* Staggered animation for grid items */
-        .nid_book_item:nth-child(1) { animation: nid_fade_in_up 0.6s ease-out 0.1s both; }
-        .nid_book_item:nth-child(2) { animation: nid_fade_in_up 0.6s ease-out 0.2s both; }
-        .nid_book_item:nth-child(3) { animation: nid_fade_in_up 0.6s ease-out 0.3s both; }
-        .nid_book_item:nth-child(4) { animation: nid_fade_in_up 0.6s ease-out 0.4s both; }
-        .nid_book_item:nth-child(5) { animation: nid_fade_in_up 0.6s ease-out 0.5s both; }
-        .nid_book_item:nth-child(6) { animation: nid_fade_in_up 0.6s ease-out 0.6s both; }
-        .nid_book_item:nth-child(7) { animation: nid_fade_in_up 0.6s ease-out 0.7s both; }
-        .nid_book_item:nth-child(8) { animation: nid_fade_in_up 0.6s ease-out 0.8s both; }
-        .nid_book_item:nth-child(9) { animation: nid_fade_in_up 0.6s ease-out 0.9s both; }
-        .nid_book_item:nth-child(10) { animation: nid_fade_in_up 0.6s ease-out 1.0s both; }
-        .nid_book_item:nth-child(11) { animation: nid_fade_in_up 0.6s ease-out 1.1s both; }
-        .nid_book_item:nth-child(12) { animation: nid_fade_in_up 0.6s ease-out 1.2s both; }
-        .nid_book_item:nth-child(13) { animation: nid_fade_in_up 0.6s ease-out 1.3s both; }
+        .nid_book_item:nth-child(1) {
+            animation: nid_fade_in_up 0.6s ease-out 0.1s both;
+        }
+
+        .nid_book_item:nth-child(2) {
+            animation: nid_fade_in_up 0.6s ease-out 0.2s both;
+        }
+
+        .nid_book_item:nth-child(3) {
+            animation: nid_fade_in_up 0.6s ease-out 0.3s both;
+        }
+
+        .nid_book_item:nth-child(4) {
+            animation: nid_fade_in_up 0.6s ease-out 0.4s both;
+        }
+
+        .nid_book_item:nth-child(5) {
+            animation: nid_fade_in_up 0.6s ease-out 0.5s both;
+        }
+
+        .nid_book_item:nth-child(6) {
+            animation: nid_fade_in_up 0.6s ease-out 0.6s both;
+        }
+
+        .nid_book_item:nth-child(7) {
+            animation: nid_fade_in_up 0.6s ease-out 0.7s both;
+        }
+
+        .nid_book_item:nth-child(8) {
+            animation: nid_fade_in_up 0.6s ease-out 0.8s both;
+        }
+
+        .nid_book_item:nth-child(9) {
+            animation: nid_fade_in_up 0.6s ease-out 0.9s both;
+        }
+
+        .nid_book_item:nth-child(10) {
+            animation: nid_fade_in_up 0.6s ease-out 1.0s both;
+        }
+
+        .nid_book_item:nth-child(11) {
+            animation: nid_fade_in_up 0.6s ease-out 1.1s both;
+        }
+
+        .nid_book_item:nth-child(12) {
+            animation: nid_fade_in_up 0.6s ease-out 1.2s both;
+        }
+
+        .nid_book_item:nth-child(13) {
+            animation: nid_fade_in_up 0.6s ease-out 1.3s both;
+        }
 
         /* Additional hover effects for better interaction */
         .nid_book_item:hover .nid_book_icon {
@@ -636,18 +689,371 @@
             color: #ffffff;
             opacity: 1;
         }
+
         /* End book details */
+
+        /* reasons why css */
+
+        /* Main Container */
+        .brds_minimal_section {
+            padding: 3rem 0 4rem;
+            min-height: 100vh;
+            display: none;
+        }
+
+        .brds_minimal_container {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: 0 1.5rem;
+        }
+
+        /* Header Styles */
+        .brds_minimal_header {
+            text-align: center;
+            margin-bottom: 4rem;
+            animation: brds_slide_down 1s ease-out;
+        }
+
+        .brds_minimal_title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #2d3748;
+            margin-bottom: 1rem;
+            line-height: 1.2;
+        }
+
+        .brds_minimal_divider {
+            width: 80px;
+            height: 4px;
+            background: #D73527;
+            margin: 0 auto;
+            border-radius: 2px;
+            animation: brds_pulse_divider 2s ease-in-out infinite alternate;
+        }
+
+        @keyframes brds_slide_down {
+            0% {
+                opacity: 0;
+                transform: translateY(-50px);
+            }
+
+            100% {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes brds_pulse_divider {
+            0% {
+                transform: scaleX(1);
+            }
+
+            100% {
+                transform: scaleX(1.2);
+            }
+        }
+
+        /* List Container */
+        .brds_minimal_list {
+            display: flex;
+            flex-direction: column;
+            gap: 1.2rem;
+        }
+
+        /* List Item */
+        .brds_minimal_item {
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 4px 20px rgba(215, 53, 39, 0.08);
+            border: 1px solid rgba(215, 53, 39, 0.1);
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            opacity: 0;
+            transform: translateY(30px);
+            position: relative;
+            overflow: hidden;
+            cursor: pointer;
+        }
+
+        .brds_minimal_item::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(215, 53, 39, 0.05), transparent);
+            transition: left 0.6s ease;
+        }
+
+        .brds_minimal_item:hover::before {
+            left: 100%;
+        }
+
+        .brds_minimal_item.brds_animate_in {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .brds_minimal_item:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 12px 40px rgba(215, 53, 39, 0.15);
+            border-color: rgba(215, 53, 39, 0.2);
+        }
+
+        /* Item Header */
+        .brds_minimal_item_header {
+            background: #D73527;
+            padding: 1.8rem 2rem;
+            display: flex;
+            align-items: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .brds_minimal_item_header::after {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+            transform: rotate(45deg);
+            transition: all 0.6s;
+            opacity: 0;
+        }
+
+        .brds_minimal_item:hover .brds_minimal_item_header::after {
+            opacity: 1;
+            animation: brds_header_shine 0.6s ease-in-out;
+        }
+
+        @keyframes brds_header_shine {
+            0% {
+                transform: translateX(-100%) translateY(-100%) rotate(45deg);
+            }
+
+            100% {
+                transform: translateX(100%) translateY(100%) rotate(45deg);
+            }
+        }
+
+        .brds_minimal_icon_wrapper {
+            width: 55px;
+            height: 55px;
+            border-radius: 14px;
+            background: rgba(255, 255, 255, 0.2);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 1.5rem;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+        }
+
+        .brds_minimal_icon {
+            font-size: 1.4rem;
+            color: white !important;
+            transition: all 0.3s ease;
+        }
+
+        .brds_minimal_item:hover .brds_minimal_icon_wrapper {
+            transform: scale(1.1) rotate(5deg);
+            background: rgba(255, 255, 255, 0.3);
+        }
+
+        .brds_minimal_item:hover .brds_minimal_icon {
+            transform: scale(1.1);
+        }
+
+        .brds_minimal_item_title {
+            font-size: 1.35rem;
+            font-weight: 600;
+            color: white;
+            line-height: 1.3;
+            flex: 1;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .brds_minimal_title {
+                font-size: 2rem;
+            }
+
+            .brds_minimal_item_header {
+                padding: 1.5rem 1.5rem;
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .brds_minimal_icon_wrapper {
+                margin-right: 0;
+                margin-bottom: 1rem;
+                width: 60px;
+                height: 60px;
+            }
+
+            .brds_minimal_icon {
+                font-size: 1.5rem;
+            }
+
+            .brds_minimal_item_title {
+                font-size: 1.2rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .brds_minimal_container {
+                padding: 0 1rem;
+            }
+
+            .brds_minimal_section {
+                padding: 1rem 0 2rem;
+                display: block;
+            }
+
+            .brds_minimal_title {
+                font-size: 1.8rem;
+            }
+
+            .brds_minimal_header {
+                margin-bottom: 2rem;
+            }
+
+            .brds_minimal_item_header {
+                padding: 1.3rem 1.2rem;
+            }
+
+            .brds_minimal_item_title {
+                font-size: 1.1rem;
+            }
+        }
+
+        /* Scroll Animations */
+        .brds_minimal_item:nth-child(1) {
+            animation-delay: 0.1s;
+        }
+
+        .brds_minimal_item:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        .brds_minimal_item:nth-child(3) {
+            animation-delay: 0.3s;
+        }
+
+        .brds_minimal_item:nth-child(4) {
+            animation-delay: 0.4s;
+        }
+
+        .brds_minimal_item:nth-child(5) {
+            animation-delay: 0.5s;
+        }
+
+        .brds_minimal_item:nth-child(6) {
+            animation-delay: 0.6s;
+        }
+
+        @keyframes brds_fade_in_up {
+            0% {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+
+            100% {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Floating Elements */
+        .brds_floating_dot {
+            position: absolute;
+            border-radius: 50%;
+            background: rgba(215, 53, 39, 0.08);
+            animation: brds_float 8s ease-in-out infinite;
+            pointer-events: none;
+        }
+
+        .brds_floating_dot:nth-child(1) {
+            width: 50px;
+            height: 50px;
+            top: 15%;
+            left: 8%;
+            animation-delay: 0s;
+        }
+
+        .brds_floating_dot:nth-child(2) {
+            width: 70px;
+            height: 70px;
+            top: 60%;
+            right: 10%;
+            animation-delay: 3s;
+        }
+
+        .brds_floating_dot:nth-child(3) {
+            width: 35px;
+            height: 35px;
+            top: 35%;
+            left: 5%;
+            animation-delay: 6s;
+        }
+
+        @keyframes brds_float {
+
+            0%,
+            100% {
+                transform: translateY(0px) scale(1);
+            }
+
+            50% {
+                transform: translateY(-12px) scale(1.05);
+            }
+        }
+
+        /* Accessibility */
+        @media (prefers-reduced-motion: reduce) {
+            * {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+            }
+        }
+
+        /* Focus States */
+        .brds_minimal_item:focus {
+            outline: 3px solid #D73527;
+            outline-offset: 2px;
+        }
+
+        /* High Contrast Mode */
+        @media (prefers-contrast: high) {
+            .brds_minimal_item {
+                border: 2px solid #D73527;
+            }
+
+            .brds_minimal_item_header {
+                background: #000;
+            }
+        }
+
+        /* Active/Click State */
+        .brds_minimal_item:active {
+            transform: translateY(-2px);
+            transition: all 0.1s ease;
+        }
+
+        /* reasons why css end  */
     </style>
 </head>
 
 <body>
-    <!-- Google Tag Manager (noscript) --> 
+    <!-- Google Tag Manager (noscript) -->
 
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWL9D6CF" 
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWL9D6CF" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
 
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
-    
-    <!-- End Google Tag Manager (noscript) --> 
+    <!-- End Google Tag Manager (noscript) -->
     <header>
         <div class="container-md">
             <div class="row align-items-center">
@@ -655,24 +1061,34 @@
                     <div class="header-left"><img src="images/headerlogo.png" alt="headerlogo" class="headerlogo"></div>
                 </div>
                 <div class="col-md-6 col-12 header-right p-0">
-                    <p class="p-right mb-0" style="color: red; animation: pulse-opacity 2s infinite;">India's No. 1 Design Coaching Institute</p>
+                    <p class="p-right mb-0" style="color: red; animation: pulse-opacity 2s infinite;">India's No. 1
+                        Design Coaching Institute</p>
                 </div>
                 <style>
                     @keyframes pulse-opacity {
-                        0% { opacity: 1; }
-                        50% { opacity: 0.5; }
-                        100% { opacity: 1; }
+                        0% {
+                            opacity: 1;
+                        }
+
+                        50% {
+                            opacity: 0.5;
+                        }
+
+                        100% {
+                            opacity: 1;
+                        }
                     }
                 </style>
             </div>
         </div>
     </header>
-    <style> 
-        .banner-mobile{
+    <style>
+        .banner-mobile {
             display: none;
         }
+
         @media screen and (max-width: 768px) {
-            .banner-mobile{
+            .banner-mobile {
                 display: block;
             }
         }
@@ -685,20 +1101,24 @@
 
     <section class="banner">
         <div class="container position-relative z-1">
-            
-            <div class="row gy-4 align-items-center justify-content-end">
-                    <div class="col-md-6 col-12" style="display: none;">
-                        <div class="banner-left text-center text-md-start">
-                            <h2 class="text-white">NID Entrance Exam Coaching</h2>
-                            <h3>Unlock a World of Design Excellence through NID Coaching with BRDS</h3>
-                        </div>
 
-                        <style>
-                            .banner-left h2{ display: none;}
-                            .banner-left h3{ display: none;}
-                        
-                        </style>
+            <div class="row gy-4 align-items-center justify-content-end">
+                <div class="col-md-6 col-12" style="display: none;">
+                    <div class="banner-left text-center text-md-start">
+                        <h2 class="text-white">NID Entrance Exam Coaching</h2>
+                        <h3>Unlock a World of Design Excellence through NID Coaching with BRDS</h3>
                     </div>
+
+                    <style>
+                        .banner-left h2 {
+                            display: none;
+                        }
+
+                        .banner-left h3 {
+                            display: none;
+                        }
+                    </style>
+                </div>
                 <div class="col-md-6 col-12" id="form">
                     <div class="banner-right text-center mx-auto ms-lg-auto me-lg-0 mw-">
                         <h3>Admissions Open</h3>
@@ -779,109 +1199,119 @@
             </div>
         </div>
     </section>
-   
+
     <!-- CEED M.Des Study Material Kit  -->
     <section class="nid-study-kit-section">
-    <div class="nid-study-kit">
-        <div class="nid-kit-header">
-            <h1 class="nid-kit-title">CEED M.Des Study Material Kit</h1>
-        </div>
-
-        <div class="nid-selections-grid">
-            <div class="nid-achievement-card">
-                <div class="nid-selection-count">675</div>
-                <div class="nid-achievement-label">BRDS Students in IIT's</div>
+        <div class="nid-study-kit">
+            <div class="nid-kit-header">
+                <h1 class="nid-kit-title">CEED M.Des Study Material Kit</h1>
             </div>
 
-            <div class="nid-achievement-card">
-                <div class="nid-selection-count">382</div>
-                <div class="nid-achievement-label">BRDS Students Qualified CEED in 2021</div>
+            <div class="nid-selections-grid">
+                <div class="nid-achievement-card">
+                    <div class="nid-selection-count">675</div>
+                    <div class="nid-achievement-label">BRDS Students in IIT's</div>
+                </div>
+
+                <div class="nid-achievement-card">
+                    <div class="nid-selection-count">382</div>
+                    <div class="nid-achievement-label">BRDS Students Qualified CEED in 2021</div>
+                </div>
+            </div>
+
+            <div class="nid-expert-section">
+                <p class="nid-expert-message">
+                    Get comprehensive study materials designed by experts who have consistently produced top rankers in
+                    CEED entrance examinations.
+                </p>
+                <a href="#form">
+                    <button class="nid-kit-access-btn">Get Study Material Kit</button>
+                </a>
             </div>
         </div>
-
-        <div class="nid-expert-section">
-            <p class="nid-expert-message">
-                Get comprehensive study materials designed by experts who have consistently produced top rankers in CEED entrance examinations.
-            </p>
-            <a href="#form">
-                <button class="nid-kit-access-btn">Get Study Material Kit</button>
-            </a>
-        </div>
-    </div>
     </section>
     <!-- End CEED M.Des Study Material Kit  -->
 
 
     <section class="body_exam">
         <div class="container_exam">
-          <!-- Section Header -->
-          <div class="section-header_exam fade-in_exam">
-            <h2 class="section-title_exam course_exam">Reasons to Choose BRDS CEED Study Material</h2>
-          </div>
-      
-          <!-- Swiper Slider -->
-          <div class="swiper courses-slider_exam">
-            <div class="swiper-wrapper">
-      
-              <!-- Card 1: Books -->
-              <div class="swiper-slide">
-                <div class="course-card_exam fade-in-up_exam">
-                  <div class="course-header_exam shimmer_exam">
-                    <h3 class="course-title_exam">Books - 13 books for Online and Drawing test preparation</h3>
-                  </div>
-                  <div class="course-content_exam">
-                    <img src="https://rathoredesign.com/wp-content/uploads/2022/08/nid-study.jpeg" alt="Study Books" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
-                  </div>
-                </div>
-              </div>
-      
-              <!-- Card 2: Resource link -->
-              <div class="swiper-slide">
-                <div class="course-card_exam fade-in-up_exam">
-                  <div class="course-header_exam shimmer_exam">
-                    <h3 class="course-title_exam">Resource link with visual design and design trends.</h3>
-                  </div>
-                  <div class="course-content_exam">
-                    <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Digital Resources" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
-                  </div>
-                </div>
-              </div>
-      
-              <!-- Card 3: Expert's support -->
-              <div class="swiper-slide">
-                <div class="course-card_exam fade-in-up_exam">
-                  <div class="course-header_exam shimmer_exam">
-                    <h3 class="course-title_exam">Expert's support and guidance.</h3>
-                  </div>
-                  <div class="course-content_exam">
-                    <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Expert Support" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
-                  </div>
-                </div>
-              </div>
-      
-              <!-- Card 4: Doubt Solving -->
-              <div class="swiper-slide">
-                <div class="course-card_exam fade-in-up_exam">
-                  <div class="course-header_exam shimmer_exam">
-                    <h3 class="course-title_exam">Doubt Solving workshops</h3>
-                  </div>
-                  <div class="course-content_exam">
-                    <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" alt="Doubt Solving Workshops" style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
-                  </div>
-                </div>
-              </div>
-      
+            <!-- Section Header -->
+            <div class="section-header_exam fade-in_exam">
+                <h2 class="section-title_exam course_exam">Reasons to Choose BRDS CEED Study Material</h2>
             </div>
-      
-            <!-- Navigation -->
-            <div class="swiper-button-next"></div>
-            <div class="swiper-button-prev"></div>
-            <!-- Pagination -->
-            <div class="swiper-pagination"></div>
-          </div>
+
+            <!-- Swiper Slider -->
+            <div class="swiper courses-slider_exam">
+                <div class="swiper-wrapper">
+
+                    <!-- Card 1: Books -->
+                    <div class="swiper-slide">
+                        <div class="course-card_exam fade-in-up_exam">
+                            <div class="course-header_exam shimmer_exam">
+                                <h3 class="course-title_exam">Books - 13 books for Online and Drawing test preparation
+                                </h3>
+                            </div>
+                            <div class="course-content_exam">
+                                <img src="https://rathoredesign.com/wp-content/uploads/2022/08/nid-study.jpeg"
+                                    alt="Study Books"
+                                    style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Card 2: Resource link -->
+                    <div class="swiper-slide">
+                        <div class="course-card_exam fade-in-up_exam">
+                            <div class="course-header_exam shimmer_exam">
+                                <h3 class="course-title_exam">Resource link with visual design and design trends.</h3>
+                            </div>
+                            <div class="course-content_exam">
+                                <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+                                    alt="Digital Resources"
+                                    style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Card 3: Expert's support -->
+                    <div class="swiper-slide">
+                        <div class="course-card_exam fade-in-up_exam">
+                            <div class="course-header_exam shimmer_exam">
+                                <h3 class="course-title_exam">Expert's support and guidance.</h3>
+                            </div>
+                            <div class="course-content_exam">
+                                <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+                                    alt="Expert Support"
+                                    style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Card 4: Doubt Solving -->
+                    <div class="swiper-slide">
+                        <div class="course-card_exam fade-in-up_exam">
+                            <div class="course-header_exam shimmer_exam">
+                                <h3 class="course-title_exam">Doubt Solving workshops</h3>
+                            </div>
+                            <div class="course-content_exam">
+                                <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+                                    alt="Doubt Solving Workshops"
+                                    style="width: 100%; height: 200px; object-fit: cover; border-radius: 0 0 12px 12px;" />
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Navigation -->
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+                <!-- Pagination -->
+                <div class="swiper-pagination"></div>
+            </div>
         </div>
-      </section>
-      
+    </section>
+
     <!-- Add Swiper CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
     <!-- Add Swiper JS -->
@@ -923,555 +1353,558 @@
 
 
 
-  
-<section class="body_result">
-    <div class="nid-container_result">
-        <div class="section-header_exam fade-in_exam">
-            <h2 class="section-title_exam live_result">CEED Results by BRDS</h2>
-        </div>
-        <div class="nid-section_result" id="nidSlider">
-            <!-- For desktop view -->
-            <!-- Stats Card -->
-            <div class="card_result stats-card_result">
-                <h2 class="stats-title_result">CEED</h2>
-                <h3 class="stats-number_result">1405</h3>
-                <h4 class="stats-text_result">Students Qualified UCEED & CEED 2024</h4>
-                <div class="total-stats_result">3389 Total Qualified UCEED/CEED</div>
-            </div>
-            <!-- Student Card 1 -->
-            <div class="card_result student-card_result">
-                <div class="card-header_result"></div>
-                <div class="profile-wrapper_result">
-                    <div class="profile-ring_result"></div>
-                    <!-- <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/arun-surya-m.png" alt="Arun Surya" class="profile-pic_result"> -->
-                    <img src="https://ceedcoaching.com/images/arun-surya-n.png" alt="Arun Surya" class="profile-pic_result">
-                </div>
-                <div class="student-info_result">
-                    <h3 class="student-name_result">Arun Surya</h3>
-                    <div class="student-city_result">Bangalore</div>
-                    <div class="student-program_result">-</div>
-                    <div class="rank-badge_result">
-                        <span class="rank-label_result">All India Rank</span>
-                        <span class="rank-number_result">05</span>
-                    </div>
-                    <div class="nid-year_result">CEED 2024</div>
-                </div>
-            </div>
-            <!-- Student Card 2 -->
-            <div class="card_result student-card_result">
-                <div class="card-header_result"></div>
-                <div class="profile-wrapper_result">
-                    <div class="profile-ring_result"></div>
-                    <!-- <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/arundhati-rana.png" alt="Arundhati Rana" class="profile-pic_result"> -->
-                    <img src="https://ceedcoaching.com/images/arundhati-rana-n.png" alt="Arundhati Rana" class="profile-pic_result">
-                </div>
-                <div class="student-info_result">
-                    <h3 class="student-name_result">Arundhati Rana</h3>
-                    <div class="student-city_result">New Delhi</div>
-                    <div class="student-program_result">-</div>
-                    <div class="rank-badge_result">
-                        <span class="rank-label_result">All India Rank</span>
-                        <span class="rank-number_result">15</span>
-                    </div>
-                    <div class="nid-year_result">CEED 2024</div>
-                </div>
-            </div>
-            <!-- Student Card 3 -->
-            <div class="card_result student-card_result">
-                <div class="card-header_result"></div>
-                <div class="profile-wrapper_result">
-                    <div class="profile-ring_result"></div>
-                    <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/nikhil-manoj.png"
-                        alt="Nikhil Manoj" class="profile-pic_result">
-                </div>
-                <div class="student-info_result">
-                    <h3 class="student-name_result">Nikhil Manoj</h3>
-                    <div class="student-city_result">Kochi</div>
-                    <div class="student-program_result">-</div>
-                    <div class="rank-badge_result">
-                        <span class="rank-label_result">All India Rank</span>
-                        <span class="rank-number_result">17</span>
-                    </div>
-                    <div class="nid-year_result">CEED 2024</div>
-                </div>
-            </div>
-        </div>
-        <!-- Mobile Slider (only shown on mobile) -->
-        <div class="mobile-slider-track_result" id="sliderTrack" style="display: none;">
-            <!-- Stats Card -->
-            <div class="card_result stats-card_result">
-                <h2 class="stats-title_result">CEED</h2>
-                <h3 class="stats-number_result">1405</h3>
-                <h4 class="stats-text_result">Students Qualified UCEED & CEED 2024</h4>
-                <div class="total-stats_result">3389 Total Qualified UCEED/CEED</div>
-            </div>
-            <!-- Student Card 1 -->
-            <div class="card_result student-card_result">
-                <div class="card-header_result"></div>
-                <div class="profile-wrapper_result">
-                    <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/arun-surya-m.png"
-                        alt="Arun Surya" class="profile-pic_result">
-                </div>
-                <div class="student-info_result">
-                    <h3 class="student-name_result">Arun Surya</h3>
-                    <div class="student-city_result">Bangalore</div>
-                    <div class="student-program_result">-</div>
-                    <div class="rank-badge_result">
-                        <span class="rank-label_result">All India Rank</span>
-                        <span class="rank-number_result">05</span>
-                    </div>
-                    <div class="nid-year_result">CEED 2024</div>
-                </div>
-            </div>
-            <!-- Student Card 2 -->
-            <div class="card_result student-card_result">
-                <div class="card-header_result"></div>
-                <div class="profile-wrapper_result">
-                    <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/arundhati-rana.png"
-                        alt="Arundhati Rana" class="profile-pic_result">
-                </div>
-                <div class="student-info_result">
-                    <h3 class="student-name_result">Arundhati Rana</h3>
-                    <div class="student-city_result">New Delhi</div>
-                    <div class="student-program_result">-</div>
-                    <div class="rank-badge_result">
-                        <span class="rank-label_result">All India Rank</span>
-                        <span class="rank-number_result">15</span>
-                    </div>
-                    <div class="nid-year_result">CEED 2024</div>
-                </div>
-            </div>
-            <!-- Student Card 3 -->
-            <div class="card_result student-card_result">
-                <div class="card-header_result"></div>
-                <div class="profile-wrapper_result">
-                    <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/nikhil-manoj.png"
-                        alt="Nikhil Manoj" class="profile-pic_result">
-                </div>
-                <div class="student-info_result">
-                    <h3 class="student-name_result">Nikhil Manoj</h3>
-                    <div class="student-city_result">Kochi</div>
-                    <div class="student-program_result">-</div>
-                    <div class="rank-badge_result">
-                        <span class="rank-label_result">All India Rank</span>
-                        <span class="rank-number_result">17</span>
-                    </div>
-                    <div class="nid-year_result">CEED 2024</div>
-                </div>
-            </div>
-        </div>
-        <!-- Mobile Slider Controls -->
-        <div class="slider-controls_result" id="sliderDots">
-            <div class="slider-dot_result active" data-index="0"></div>
-            <div class="slider-dot_result" data-index="1"></div>
-            <div class="slider-dot_result" data-index="2"></div>
-            <div class="slider-dot_result" data-index="3"></div>
-        </div>
-        <div class="slider-arrows_result">
-            <div class="arrow_result arrow-left_result" id="prevSlide"></div>
-            <div class="arrow_result arrow-right_result" id="nextSlide"></div>
-        </div>
-    </div>
-</section>
-<script>
-    document.addEventListener('DOMContentLoaded', function () {
-        // Get elements
-        const sliderTrack = document.getElementById('sliderTrack');
-        const nidSlider = document.getElementById('nidSlider');
-        const dots = document.querySelectorAll('.slider-dot_result');
-        const prevBtn = document.getElementById('prevSlide');
-        const nextBtn = document.getElementById('nextSlide');
-        let currentSlide = 0;
-        const totalSlides = dots.length;
-        let autoSlideInterval;
-        const slideTime = 5000; // 5 seconds per slide
-        // Check if we're on mobile
-        const isMobile = window.innerWidth <= 768;
-        // Initialize based on device
-        if (isMobile) {
-            initMobileSlider();
-        } else {
-            initDesktopLayout();
-        }
-        function initMobileSlider() {
-            // Hide desktop grid, show mobile slider
-            if (nidSlider) {
-                nidSlider.style.display = 'none';
-            }
-            if (sliderTrack) {
-                sliderTrack.style.display = 'flex';
-            }
-            // Set up dots
-            dots.forEach(dot => {
-                dot.addEventListener('click', function () {
-                    const slideIndex = parseInt(this.getAttribute('data-index'));
-                    goToSlide(slideIndex);
-                });
-            });
-            // Set up arrow navigation
-            prevBtn.addEventListener('click', function () {
-                goToSlide(currentSlide - 1);
-            });
-            nextBtn.addEventListener('click', function () {
-                goToSlide(currentSlide + 1);
-            });
-            // Handle swipe gestures
-            let touchStartX = 0;
-            let touchEndX = 0;
-            document.addEventListener('touchstart', function (e) {
-                touchStartX = e.changedTouches[0].screenX;
-                // Pause auto slide on touch
-                clearInterval(autoSlideInterval);
-            });
-            document.addEventListener('touchend', function (e) {
-                touchEndX = e.changedTouches[0].screenX;
-                handleSwipe();
-                // Resume auto slide after touch
-                startAutoSlide();
-            });
-            function handleSwipe() {
-                const swipeThreshold = 50;
-                if (touchEndX < touchStartX - swipeThreshold) {
-                    // Swipe left
-                    goToSlide(currentSlide + 1);
-                } else if (touchEndX > touchStartX + swipeThreshold) {
-                    // Swipe right
-                    goToSlide(currentSlide - 1);
-                }
-            }
-            // Start auto slide
-            startAutoSlide();
-            // Initial slide position
-            goToSlide(0);
-        }
-        function initDesktopLayout() {
-            // Show desktop grid, hide mobile slider
-            if (nidSlider) {
-                nidSlider.style.display = 'grid';
-            }
-            if (sliderTrack) {
-                sliderTrack.style.display = 'none';
-            }
-            // Add desktop-specific behavior
-            document.querySelectorAll('.card_result').forEach(card => {
-                card.addEventListener('mousemove', function (e) {
-                    const rect = this.getBoundingClientRect();
-                    const x = e.clientX - rect.left;
-                    const y = e.clientY - rect.top;
-                    const centerX = rect.width / 2;
-                    const centerY = rect.height / 2;
-                    const deltaX = (x - centerX) / centerX;
-                    const deltaY = (y - centerY) / centerY;
-                    this.style.transform = `perspective(1000px) rotateY(${deltaX * 5}deg) rotateX(${-deltaY * 5}deg) translateZ(10px)`;
-                });
-                card.addEventListener('mouseleave', function () {
-                    this.style.transform = 'perspective(1000px) rotateY(0) rotateX(0) translateZ(0)';
-                });
-            });
-        }
-        function startAutoSlide() {
-            // Clear any existing intervals
-            clearInterval(autoSlideInterval);
-            // Set auto slide interval
-            autoSlideInterval = setInterval(() => {
-                goToSlide(currentSlide + 1);
-            }, slideTime);
-        }
-        function goToSlide(index) {
-            // Handle circular navigation
-            if (index < 0) {
-                index = totalSlides - 1;
-            } else if (index >= totalSlides) {
-                index = 0;
-            }
-            // Update current slide
-            currentSlide = index;
-            // Move the slider track
-            if (sliderTrack) {
-                sliderTrack.style.transform = `translateX(-${currentSlide * 25}%)`;
-            }
-            // Update dots
-            dots.forEach((dot, i) => {
-                if (i === currentSlide) {
-                    dot.classList.add('active');
-                } else {
-                    dot.classList.remove('active');
-                }
-            });
-            // Reset auto slide
-            if (isMobile) {
-                startAutoSlide();
-            }
-        }
-        // Handle window resize
-        window.addEventListener('resize', function () {
-            const newIsMobile = window.innerWidth <= 768;
-            // If switching between mobile and desktop
-            if (newIsMobile !== isMobile) {
-                location.reload(); // Refresh to reset layout
-            }
-        });
-    });
-</script>
-    
-    
-  <section class="nid_books_section">
-    <div class="nid_books_container">
-        <!-- Section Header -->
-        <div class="nid_books_header">
-            <h2 class="nid_books_title">Details of Books for Comprehensive Preparation of CEED</h2>
-        </div>
 
-        <!-- Books Grid -->
-        <div class="nid_books_grid">
-            <div class="nid_book_item">
-                <!-- Desktop layout -->
-                <i class="fas fa-book nid_book_icon"></i>
-                <div class="nid_book_number">Book 1</div>
-                
-                <!-- Mobile layout -->
-                <div class="nid_book_header_mobile">
+    <section class="body_result">
+        <div class="nid-container_result">
+            <div class="section-header_exam fade-in_exam">
+                <h2 class="section-title_exam live_result">CEED Results by BRDS</h2>
+            </div>
+            <div class="nid-section_result" id="nidSlider">
+                <!-- For desktop view -->
+                <!-- Stats Card -->
+                <div class="card_result stats-card_result">
+                    <h2 class="stats-title_result">CEED</h2>
+                    <h3 class="stats-number_result">1405</h3>
+                    <h4 class="stats-text_result">Students Qualified UCEED & CEED 2024</h4>
+                    <div class="total-stats_result">3389 Total Qualified UCEED/CEED</div>
+                </div>
+                <!-- Student Card 1 -->
+                <div class="card_result student-card_result">
+                    <div class="card-header_result"></div>
+                    <div class="profile-wrapper_result">
+                        <div class="profile-ring_result"></div>
+                        <!-- <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/arun-surya-m.png" alt="Arun Surya" class="profile-pic_result"> -->
+                        <img src="https://ceedcoaching.com/images/arun-surya-n.png" alt="Arun Surya"
+                            class="profile-pic_result">
+                    </div>
+                    <div class="student-info_result">
+                        <h3 class="student-name_result">Arun Surya</h3>
+                        <div class="student-city_result">Bangalore</div>
+                        <div class="student-program_result">-</div>
+                        <div class="rank-badge_result">
+                            <span class="rank-label_result">All India Rank</span>
+                            <span class="rank-number_result">05</span>
+                        </div>
+                        <div class="nid-year_result">CEED 2024</div>
+                    </div>
+                </div>
+                <!-- Student Card 2 -->
+                <div class="card_result student-card_result">
+                    <div class="card-header_result"></div>
+                    <div class="profile-wrapper_result">
+                        <div class="profile-ring_result"></div>
+                        <!-- <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/arundhati-rana.png" alt="Arundhati Rana" class="profile-pic_result"> -->
+                        <img src="https://ceedcoaching.com/images/arundhati-rana-n.png" alt="Arundhati Rana"
+                            class="profile-pic_result">
+                    </div>
+                    <div class="student-info_result">
+                        <h3 class="student-name_result">Arundhati Rana</h3>
+                        <div class="student-city_result">New Delhi</div>
+                        <div class="student-program_result">-</div>
+                        <div class="rank-badge_result">
+                            <span class="rank-label_result">All India Rank</span>
+                            <span class="rank-number_result">15</span>
+                        </div>
+                        <div class="nid-year_result">CEED 2024</div>
+                    </div>
+                </div>
+                <!-- Student Card 3 -->
+                <div class="card_result student-card_result">
+                    <div class="card-header_result"></div>
+                    <div class="profile-wrapper_result">
+                        <div class="profile-ring_result"></div>
+                        <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/nikhil-manoj.png"
+                            alt="Nikhil Manoj" class="profile-pic_result">
+                    </div>
+                    <div class="student-info_result">
+                        <h3 class="student-name_result">Nikhil Manoj</h3>
+                        <div class="student-city_result">Kochi</div>
+                        <div class="student-program_result">-</div>
+                        <div class="rank-badge_result">
+                            <span class="rank-label_result">All India Rank</span>
+                            <span class="rank-number_result">17</span>
+                        </div>
+                        <div class="nid-year_result">CEED 2024</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Mobile Slider (only shown on mobile) -->
+            <div class="mobile-slider-track_result" id="sliderTrack" style="display: none;">
+                <!-- Stats Card -->
+                <div class="card_result stats-card_result">
+                    <h2 class="stats-title_result">CEED</h2>
+                    <h3 class="stats-number_result">1405</h3>
+                    <h4 class="stats-text_result">Students Qualified UCEED & CEED 2024</h4>
+                    <div class="total-stats_result">3389 Total Qualified UCEED/CEED</div>
+                </div>
+                <!-- Student Card 1 -->
+                <div class="card_result student-card_result">
+                    <div class="card-header_result"></div>
+                    <div class="profile-wrapper_result">
+                        <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/arun-surya-m.png"
+                            alt="Arun Surya" class="profile-pic_result">
+                    </div>
+                    <div class="student-info_result">
+                        <h3 class="student-name_result">Arun Surya</h3>
+                        <div class="student-city_result">Bangalore</div>
+                        <div class="student-program_result">-</div>
+                        <div class="rank-badge_result">
+                            <span class="rank-label_result">All India Rank</span>
+                            <span class="rank-number_result">05</span>
+                        </div>
+                        <div class="nid-year_result">CEED 2024</div>
+                    </div>
+                </div>
+                <!-- Student Card 2 -->
+                <div class="card_result student-card_result">
+                    <div class="card-header_result"></div>
+                    <div class="profile-wrapper_result">
+                        <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/arundhati-rana.png"
+                            alt="Arundhati Rana" class="profile-pic_result">
+                    </div>
+                    <div class="student-info_result">
+                        <h3 class="student-name_result">Arundhati Rana</h3>
+                        <div class="student-city_result">New Delhi</div>
+                        <div class="student-program_result">-</div>
+                        <div class="rank-badge_result">
+                            <span class="rank-label_result">All India Rank</span>
+                            <span class="rank-number_result">15</span>
+                        </div>
+                        <div class="nid-year_result">CEED 2024</div>
+                    </div>
+                </div>
+                <!-- Student Card 3 -->
+                <div class="card_result student-card_result">
+                    <div class="card-header_result"></div>
+                    <div class="profile-wrapper_result">
+                        <img src="https://rathoredesign.com/wp-content/uploads/resultdata/2024/iit/images/nikhil-manoj.png"
+                            alt="Nikhil Manoj" class="profile-pic_result">
+                    </div>
+                    <div class="student-info_result">
+                        <h3 class="student-name_result">Nikhil Manoj</h3>
+                        <div class="student-city_result">Kochi</div>
+                        <div class="student-program_result">-</div>
+                        <div class="rank-badge_result">
+                            <span class="rank-label_result">All India Rank</span>
+                            <span class="rank-number_result">17</span>
+                        </div>
+                        <div class="nid-year_result">CEED 2024</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Mobile Slider Controls -->
+            <div class="slider-controls_result" id="sliderDots">
+                <div class="slider-dot_result active" data-index="0"></div>
+                <div class="slider-dot_result" data-index="1"></div>
+                <div class="slider-dot_result" data-index="2"></div>
+                <div class="slider-dot_result" data-index="3"></div>
+            </div>
+            <div class="slider-arrows_result">
+                <div class="arrow_result arrow-left_result" id="prevSlide"></div>
+                <div class="arrow_result arrow-right_result" id="nextSlide"></div>
+            </div>
+        </div>
+    </section>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Get elements
+            const sliderTrack = document.getElementById('sliderTrack');
+            const nidSlider = document.getElementById('nidSlider');
+            const dots = document.querySelectorAll('.slider-dot_result');
+            const prevBtn = document.getElementById('prevSlide');
+            const nextBtn = document.getElementById('nextSlide');
+            let currentSlide = 0;
+            const totalSlides = dots.length;
+            let autoSlideInterval;
+            const slideTime = 5000; // 5 seconds per slide
+            // Check if we're on mobile
+            const isMobile = window.innerWidth <= 768;
+            // Initialize based on device
+            if (isMobile) {
+                initMobileSlider();
+            } else {
+                initDesktopLayout();
+            }
+            function initMobileSlider() {
+                // Hide desktop grid, show mobile slider
+                if (nidSlider) {
+                    nidSlider.style.display = 'none';
+                }
+                if (sliderTrack) {
+                    sliderTrack.style.display = 'flex';
+                }
+                // Set up dots
+                dots.forEach(dot => {
+                    dot.addEventListener('click', function () {
+                        const slideIndex = parseInt(this.getAttribute('data-index'));
+                        goToSlide(slideIndex);
+                    });
+                });
+                // Set up arrow navigation
+                prevBtn.addEventListener('click', function () {
+                    goToSlide(currentSlide - 1);
+                });
+                nextBtn.addEventListener('click', function () {
+                    goToSlide(currentSlide + 1);
+                });
+                // Handle swipe gestures
+                let touchStartX = 0;
+                let touchEndX = 0;
+                document.addEventListener('touchstart', function (e) {
+                    touchStartX = e.changedTouches[0].screenX;
+                    // Pause auto slide on touch
+                    clearInterval(autoSlideInterval);
+                });
+                document.addEventListener('touchend', function (e) {
+                    touchEndX = e.changedTouches[0].screenX;
+                    handleSwipe();
+                    // Resume auto slide after touch
+                    startAutoSlide();
+                });
+                function handleSwipe() {
+                    const swipeThreshold = 50;
+                    if (touchEndX < touchStartX - swipeThreshold) {
+                        // Swipe left
+                        goToSlide(currentSlide + 1);
+                    } else if (touchEndX > touchStartX + swipeThreshold) {
+                        // Swipe right
+                        goToSlide(currentSlide - 1);
+                    }
+                }
+                // Start auto slide
+                startAutoSlide();
+                // Initial slide position
+                goToSlide(0);
+            }
+            function initDesktopLayout() {
+                // Show desktop grid, hide mobile slider
+                if (nidSlider) {
+                    nidSlider.style.display = 'grid';
+                }
+                if (sliderTrack) {
+                    sliderTrack.style.display = 'none';
+                }
+                // Add desktop-specific behavior
+                document.querySelectorAll('.card_result').forEach(card => {
+                    card.addEventListener('mousemove', function (e) {
+                        const rect = this.getBoundingClientRect();
+                        const x = e.clientX - rect.left;
+                        const y = e.clientY - rect.top;
+                        const centerX = rect.width / 2;
+                        const centerY = rect.height / 2;
+                        const deltaX = (x - centerX) / centerX;
+                        const deltaY = (y - centerY) / centerY;
+                        this.style.transform = `perspective(1000px) rotateY(${deltaX * 5}deg) rotateX(${-deltaY * 5}deg) translateZ(10px)`;
+                    });
+                    card.addEventListener('mouseleave', function () {
+                        this.style.transform = 'perspective(1000px) rotateY(0) rotateX(0) translateZ(0)';
+                    });
+                });
+            }
+            function startAutoSlide() {
+                // Clear any existing intervals
+                clearInterval(autoSlideInterval);
+                // Set auto slide interval
+                autoSlideInterval = setInterval(() => {
+                    goToSlide(currentSlide + 1);
+                }, slideTime);
+            }
+            function goToSlide(index) {
+                // Handle circular navigation
+                if (index < 0) {
+                    index = totalSlides - 1;
+                } else if (index >= totalSlides) {
+                    index = 0;
+                }
+                // Update current slide
+                currentSlide = index;
+                // Move the slider track
+                if (sliderTrack) {
+                    sliderTrack.style.transform = `translateX(-${currentSlide * 25}%)`;
+                }
+                // Update dots
+                dots.forEach((dot, i) => {
+                    if (i === currentSlide) {
+                        dot.classList.add('active');
+                    } else {
+                        dot.classList.remove('active');
+                    }
+                });
+                // Reset auto slide
+                if (isMobile) {
+                    startAutoSlide();
+                }
+            }
+            // Handle window resize
+            window.addEventListener('resize', function () {
+                const newIsMobile = window.innerWidth <= 768;
+                // If switching between mobile and desktop
+                if (newIsMobile !== isMobile) {
+                    location.reload(); // Refresh to reset layout
+                }
+            });
+        });
+    </script>
+
+
+    <section class="nid_books_section">
+        <div class="nid_books_container">
+            <!-- Section Header -->
+            <div class="nid_books_header">
+                <h2 class="nid_books_title">Details of Books for Comprehensive Preparation of CEED</h2>
+            </div>
+
+            <!-- Books Grid -->
+            <div class="nid_books_grid">
+                <div class="nid_book_item">
+                    <!-- Desktop layout -->
                     <i class="fas fa-book nid_book_icon"></i>
                     <div class="nid_book_number">Book 1</div>
-                </div>
-                
-                <h3 class="nid_book_title">CEED Original papers</h3>
-            </div>
 
-            <div class="nid_book_item">
-                <!-- Desktop layout -->
-                <i class="fas fa-book nid_book_icon"></i>
-                <div class="nid_book_number">Book 2</div>
-                
-                <!-- Mobile layout -->
-                <div class="nid_book_header_mobile">
+                    <!-- Mobile layout -->
+                    <div class="nid_book_header_mobile">
+                        <i class="fas fa-book nid_book_icon"></i>
+                        <div class="nid_book_number">Book 1</div>
+                    </div>
+
+                    <h3 class="nid_book_title">CEED Original papers</h3>
+                </div>
+
+                <div class="nid_book_item">
+                    <!-- Desktop layout -->
                     <i class="fas fa-book nid_book_icon"></i>
                     <div class="nid_book_number">Book 2</div>
-                </div>
-                
-                <h3 class="nid_book_title">CEED – Mock Test Papers (Guess Papers)</h3>
-            </div>
 
-            <div class="nid_book_item">
-                <!-- Desktop layout -->
-                <i class="fas fa-book nid_book_icon"></i>
-                <div class="nid_book_number">Book 3</div>
-                
-                <!-- Mobile layout -->
-                <div class="nid_book_header_mobile">
+                    <!-- Mobile layout -->
+                    <div class="nid_book_header_mobile">
+                        <i class="fas fa-book nid_book_icon"></i>
+                        <div class="nid_book_number">Book 2</div>
+                    </div>
+
+                    <h3 class="nid_book_title">CEED – Mock Test Papers (Guess Papers)</h3>
+                </div>
+
+                <div class="nid_book_item">
+                    <!-- Desktop layout -->
                     <i class="fas fa-book nid_book_icon"></i>
                     <div class="nid_book_number">Book 3</div>
-                </div>
-                
-                <h3 class="nid_book_title">Visualization and Spatial Ability</h3>
-            </div>
 
-            <div class="nid_book_item">
-                <!-- Desktop layout -->
-                <i class="fas fa-book nid_book_icon"></i>
-                <div class="nid_book_number">Book 4</div>
-                
-                <!-- Mobile layout -->
-                <div class="nid_book_header_mobile">
+                    <!-- Mobile layout -->
+                    <div class="nid_book_header_mobile">
+                        <i class="fas fa-book nid_book_icon"></i>
+                        <div class="nid_book_number">Book 3</div>
+                    </div>
+
+                    <h3 class="nid_book_title">Visualization and Spatial Ability</h3>
+                </div>
+
+                <div class="nid_book_item">
+                    <!-- Desktop layout -->
                     <i class="fas fa-book nid_book_icon"></i>
                     <div class="nid_book_number">Book 4</div>
-                </div>
-                
-                <h3 class="nid_book_title">Observation & Design sensitivity / Design thinking and problem solving</h3>
-            </div>
 
-            <div class="nid_book_item">
-                <!-- Desktop layout -->
-                <i class="fas fa-book nid_book_icon"></i>
-                <div class="nid_book_number">Book 5</div>
-                
-                <!-- Mobile layout -->
-                <div class="nid_book_header_mobile">
+                    <!-- Mobile layout -->
+                    <div class="nid_book_header_mobile">
+                        <i class="fas fa-book nid_book_icon"></i>
+                        <div class="nid_book_number">Book 4</div>
+                    </div>
+
+                    <h3 class="nid_book_title">Observation & Design sensitivity / Design thinking and problem solving
+                    </h3>
+                </div>
+
+                <div class="nid_book_item">
+                    <!-- Desktop layout -->
                     <i class="fas fa-book nid_book_icon"></i>
                     <div class="nid_book_number">Book 5</div>
-                </div>
-                
-                <h3 class="nid_book_title">Analytical and logical reasoning</h3>
-            </div>
 
-            <div class="nid_book_item">
-                <!-- Desktop layout -->
-                <i class="fas fa-book nid_book_icon"></i>
-                <div class="nid_book_number">Book 6</div>
-                
-                <!-- Mobile layout -->
-                <div class="nid_book_header_mobile">
+                    <!-- Mobile layout -->
+                    <div class="nid_book_header_mobile">
+                        <i class="fas fa-book nid_book_icon"></i>
+                        <div class="nid_book_number">Book 5</div>
+                    </div>
+
+                    <h3 class="nid_book_title">Analytical and logical reasoning</h3>
+                </div>
+
+                <div class="nid_book_item">
+                    <!-- Desktop layout -->
                     <i class="fas fa-book nid_book_icon"></i>
                     <div class="nid_book_number">Book 6</div>
-                </div>
-                
-                <h3 class="nid_book_title">Non-verbal reasoning</h3>
-            </div>
 
-            <div class="nid_book_item">
-                <!-- Desktop layout -->
-                <i class="fas fa-book nid_book_icon"></i>
-                <div class="nid_book_number">Book 7</div>
-                
-                <!-- Mobile layout -->
-                <div class="nid_book_header_mobile">
+                    <!-- Mobile layout -->
+                    <div class="nid_book_header_mobile">
+                        <i class="fas fa-book nid_book_icon"></i>
+                        <div class="nid_book_number">Book 6</div>
+                    </div>
+
+                    <h3 class="nid_book_title">Non-verbal reasoning</h3>
+                </div>
+
+                <div class="nid_book_item">
+                    <!-- Desktop layout -->
                     <i class="fas fa-book nid_book_icon"></i>
                     <div class="nid_book_number">Book 7</div>
-                </div>
-                
-                <h3 class="nid_book_title">Quantitative Aptitude</h3>
-            </div>
 
-            <div class="nid_book_item">
-                <!-- Desktop layout -->
-                <i class="fas fa-book nid_book_icon"></i>
-                <div class="nid_book_number">Book 8</div>
-                
-                <!-- Mobile layout -->
-                <div class="nid_book_header_mobile">
+                    <!-- Mobile layout -->
+                    <div class="nid_book_header_mobile">
+                        <i class="fas fa-book nid_book_icon"></i>
+                        <div class="nid_book_number">Book 7</div>
+                    </div>
+
+                    <h3 class="nid_book_title">Quantitative Aptitude</h3>
+                </div>
+
+                <div class="nid_book_item">
+                    <!-- Desktop layout -->
                     <i class="fas fa-book nid_book_icon"></i>
                     <div class="nid_book_number">Book 8</div>
-                </div>
-                
-                <h3 class="nid_book_title">Communication Ability & English Comprehension</h3>
-            </div>
 
-            <div class="nid_book_item">
-                <!-- Desktop layout -->
-                <i class="fas fa-book nid_book_icon"></i>
-                <div class="nid_book_number">Book 9</div>
-                
-                <!-- Mobile layout -->
-                <div class="nid_book_header_mobile">
+                    <!-- Mobile layout -->
+                    <div class="nid_book_header_mobile">
+                        <i class="fas fa-book nid_book_icon"></i>
+                        <div class="nid_book_number">Book 8</div>
+                    </div>
+
+                    <h3 class="nid_book_title">Communication Ability & English Comprehension</h3>
+                </div>
+
+                <div class="nid_book_item">
+                    <!-- Desktop layout -->
                     <i class="fas fa-book nid_book_icon"></i>
                     <div class="nid_book_number">Book 9</div>
-                </div>
-                
-                <h3 class="nid_book_title">General Knowledge and current affairs</h3>
-            </div>
 
-            <div class="nid_book_item">
-                <!-- Desktop layout -->
-                <i class="fas fa-book nid_book_icon"></i>
-                <div class="nid_book_number">Book 10</div>
-                
-                <!-- Mobile layout -->
-                <div class="nid_book_header_mobile">
+                    <!-- Mobile layout -->
+                    <div class="nid_book_header_mobile">
+                        <i class="fas fa-book nid_book_icon"></i>
+                        <div class="nid_book_number">Book 9</div>
+                    </div>
+
+                    <h3 class="nid_book_title">General Knowledge and current affairs</h3>
+                </div>
+
+                <div class="nid_book_item">
+                    <!-- Desktop layout -->
                     <i class="fas fa-book nid_book_icon"></i>
                     <div class="nid_book_number">Book 10</div>
-                </div>
-                
-                <h3 class="nid_book_title">Fundamentals of Drawing and Color concept</h3>
-            </div>
 
-            <div class="nid_book_item">
-                <!-- Desktop layout -->
-                <i class="fas fa-book nid_book_icon"></i>
-                <div class="nid_book_number">Book 11</div>
-                
-                <!-- Mobile layout -->
-                <div class="nid_book_header_mobile">
+                    <!-- Mobile layout -->
+                    <div class="nid_book_header_mobile">
+                        <i class="fas fa-book nid_book_icon"></i>
+                        <div class="nid_book_number">Book 10</div>
+                    </div>
+
+                    <h3 class="nid_book_title">Fundamentals of Drawing and Color concept</h3>
+                </div>
+
+                <div class="nid_book_item">
+                    <!-- Desktop layout -->
                     <i class="fas fa-book nid_book_icon"></i>
                     <div class="nid_book_number">Book 11</div>
-                </div>
-                
-                <h3 class="nid_book_title">Perspective Drawing</h3>
-            </div>
 
-            <div class="nid_book_item">
-                <!-- Desktop layout -->
-                <i class="fas fa-book nid_book_icon"></i>
-                <div class="nid_book_number">Book 12</div>
-                
-                <!-- Mobile layout -->
-                <div class="nid_book_header_mobile">
+                    <!-- Mobile layout -->
+                    <div class="nid_book_header_mobile">
+                        <i class="fas fa-book nid_book_icon"></i>
+                        <div class="nid_book_number">Book 11</div>
+                    </div>
+
+                    <h3 class="nid_book_title">Perspective Drawing</h3>
+                </div>
+
+                <div class="nid_book_item">
+                    <!-- Desktop layout -->
                     <i class="fas fa-book nid_book_icon"></i>
                     <div class="nid_book_number">Book 12</div>
-                </div>
-                
-                <h3 class="nid_book_title">How to draw humans and animals</h3>
-            </div>
 
-            <div class="nid_book_item">
-                <!-- Desktop layout -->
-                <i class="fas fa-book nid_book_icon"></i>
-                <div class="nid_book_number">Book 13</div>
-                
-                <!-- Mobile layout -->
-                <div class="nid_book_header_mobile">
+                    <!-- Mobile layout -->
+                    <div class="nid_book_header_mobile">
+                        <i class="fas fa-book nid_book_icon"></i>
+                        <div class="nid_book_number">Book 12</div>
+                    </div>
+
+                    <h3 class="nid_book_title">How to draw humans and animals</h3>
+                </div>
+
+                <div class="nid_book_item">
+                    <!-- Desktop layout -->
                     <i class="fas fa-book nid_book_icon"></i>
                     <div class="nid_book_number">Book 13</div>
+
+                    <!-- Mobile layout -->
+                    <div class="nid_book_header_mobile">
+                        <i class="fas fa-book nid_book_icon"></i>
+                        <div class="nid_book_number">Book 13</div>
+                    </div>
+
+                    <h3 class="nid_book_title">Design concept (Creative ability)</h3>
                 </div>
-                
-                <h3 class="nid_book_title">Design concept (Creative ability)</h3>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 
-<section class="study_section" style="display: flex; justify-content: center; align-items: center;">
-    <img class="nid_study_img desktop-img" style="height: 580px; width: 100% !important"
-        src="./images/nid_mock_test_papers.png" alt="NID Tab Background">
-    <img class="nid_study_img mobile-img" style="height: 500px;"
-        src="./images/nid_mock_test_M.png" alt="NID Tab Background">
-</section>
-<style>
-    .mobile-img {
-        display: none;
-    }
-
-    @media screen and (max-width: 768px) {
-        .desktop-img {
+    <section class="study_section" style="display: flex; justify-content: center; align-items: center;">
+        <img class="nid_study_img desktop-img" style="height: 580px; width: 100% !important"
+            src="./images/nid_mock_test_papers.png" alt="NID Tab Background">
+        <img class="nid_study_img mobile-img" style="height: 500px;" src="./images/nid_mock_test_M.png"
+            alt="NID Tab Background">
+    </section>
+    <style>
+        .mobile-img {
             display: none;
         }
 
-        .mobile-img {
-            display: block;
-        }
-    }
-</style>
-<section class="study_section" style="display: flex; justify-content: center; align-items: center;">
-    <img class="nid_study_img desktop-img" style="height: 580px; width: 100% !important"
-        src="./images/nid_bdesign_papers.png" alt="NID Tab Background">
-    <img class="nid_study_img mobile-img" style="height: 500px;"
-        src="./images/nid_bdesign_papers_M.png" alt="NID Tab Background">
-</section>
-<style>
-    .mobile-img {
-        display: none;
-    }
+        @media screen and (max-width: 768px) {
+            .desktop-img {
+                display: none;
+            }
 
-    @media screen and (max-width: 768px) {
-        .desktop-img {
+            .mobile-img {
+                display: block;
+            }
+        }
+    </style>
+    <section class="study_section" style="display: flex; justify-content: center; align-items: center;">
+        <img class="nid_study_img desktop-img" style="height: 580px; width: 100% !important"
+            src="./images/nid_bdesign_papers.png" alt="NID Tab Background">
+        <img class="nid_study_img mobile-img" style="height: 500px;" src="./images/nid_bdesign_papers_M.png"
+            alt="NID Tab Background">
+    </section>
+    <style>
+        .mobile-img {
             display: none;
         }
 
-        .mobile-img {
-            display: block;
-        }
-    }
-</style>
-<section class="study_section" style="display: flex; justify-content: center; align-items: center;">
-    <img class="nid_study_img desktop-img" style="height: 580px; width: 100% !important"
-        src="./images/nid_dat_mains.png" alt="NID Tab Background">
-    <img class="nid_study_img mobile-img" style="height: 500px;"
-        src="./images/nid_dat_mains_M.png" alt="NID Tab Background">
-</section>
-<style>
-    .mobile-img {
-        display: none;
-    }
+        @media screen and (max-width: 768px) {
+            .desktop-img {
+                display: none;
+            }
 
-    @media screen and (max-width: 768px) {
-        .desktop-img {
+            .mobile-img {
+                display: block;
+            }
+        }
+    </style>
+    <section class="study_section" style="display: flex; justify-content: center; align-items: center;">
+        <img class="nid_study_img desktop-img" style="height: 580px; width: 100% !important"
+            src="./images/nid_dat_mains.png" alt="NID Tab Background">
+        <img class="nid_study_img mobile-img" style="height: 500px;" src="./images/nid_dat_mains_M.png"
+            alt="NID Tab Background">
+    </section>
+    <style>
+        .mobile-img {
             display: none;
         }
 
-        .mobile-img {
-            display: block;
+        @media screen and (max-width: 768px) {
+            .desktop-img {
+                display: none;
+            }
+
+            .mobile-img {
+                display: block;
+            }
         }
-    }
-</style>
+    </style>
 
 
 
